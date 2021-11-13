@@ -1,0 +1,31 @@
+.bcs
+{
+    text-align:left;
+    font-style: oblique;
+    color: black;
+    margin: 1rem;
+    padding-bottom: 1rem;
+}
+.table
+{
+    border: solid rgb(119, 196, 231);
+    
+}
+.ss
+{
+    color: rgb(9, 109, 9);
+    font-style:normal;
+    font-weight: bold;
+}
+.register
+{
+    text-align: center;
+    font-weight: lighter;
+    color: rgb(32, 155, 226);
+}
+.frm
+{
+    font-weight: bolder;
+    padding: .5rem;
+    padding-bottom: 1rem;
+}
